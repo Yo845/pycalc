@@ -60,6 +60,6 @@ python calculator.py
 
 Here is how the calculator looks in the terminal:
 
-![Calculator Demo](calculator%20demo.png)
+![Calculator Demo](calculator demo.png.png)
 
 
