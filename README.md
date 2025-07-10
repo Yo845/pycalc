@@ -53,3 +53,12 @@ python calculator.py
 **Name:** Sachin Laxman Masti  
 **Email:** sachinmasti88@gmail.com  
 **GitHub:** [https://github.com/Yo845](https://github.com/Yo845)
+
+---
+
+## 🖼️ Demo Screenshot
+
+Here is how the calculator looks in the terminal:
+
+![Calculator Demo](calculator demo.png)
+
