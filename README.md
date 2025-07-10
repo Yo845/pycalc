@@ -13,6 +13,8 @@ This is a simple terminal-based calculator built using Python. It performs basic
 
 ---
 
+---
+
 ## 📦 Requirements
 
 Before running the project, make sure the following Python package is installed:
@@ -21,19 +23,19 @@ Before running the project, make sure the following Python package is installed:
 pip install colorama
 
 
-🚀 How to Run
-Clone the repository:
 git clone https://github.com/Yo845/calculator-project.git
 cd calculator-project
 
-Run the script:
-python calculator.py
+python calculator.py```
 
-###🔧 Future Plans
+🔧 Future Plans
 • Add advanced operations (square root, power, etc.) using the math module
 • Include input history and clear screen options
 • Option to export results to a file
 • Add support for percentage and modulus operations
 • Implement a GUI using Tkinter or PyQt (optional)
 
-
+👨‍💻 Author
+Name: Sachin Laxman Masti
+Email: sachinmasti88@gmail.com
+GitHub: https://github.com/Yo845
