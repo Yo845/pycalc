@@ -11,31 +11,45 @@ This is a simple terminal-based calculator built using Python. It performs basic
 - Color-coded prompts using `colorama` for better terminal readability
 - User-friendly input and error messages
 
----
-
----
-
 ## 📦 Requirements
 
 Before running the project, make sure the following Python package is installed:
 
 ```bash
 pip install colorama
+```
 
+---
 
+## 🚀 How to Run
+
+Clone the repository:
+
+```bash
 git clone https://github.com/Yo845/calculator-project.git
 cd calculator-project
+```
 
-python calculator.py```
+Run the script:
 
-🔧 Future Plans
-• Add advanced operations (square root, power, etc.) using the math module
-• Include input history and clear screen options
-• Option to export results to a file
-• Add support for percentage and modulus operations
+```bash
+python calculator.py
+```
+
+---
+
+## 🔧 Future Plans
+
+• Add advanced operations (square root, power, etc.) using the math module  
+• Include input history and clear screen options  
+• Option to export results to a file  
+• Add support for percentage and modulus operations  
 • Implement a GUI using Tkinter or PyQt (optional)
 
-👨‍💻 Author
-Name: Sachin Laxman Masti
-Email: sachinmasti88@gmail.com
-GitHub: https://github.com/Yo845
+---
+
+## 👨‍💻 Author
+
+**Name:** Sachin Laxman Masti  
+**Email:** sachinmasti88@gmail.com  
+**GitHub:** [https://github.com/Yo845](https://github.com/Yo845)
